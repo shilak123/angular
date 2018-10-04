@@ -1,0 +1,11 @@
+.name-tag{
+    height: 150px;
+    width: 150px;
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    line-height: 150px;
+    background-color: red;
+    border: 1px solid;
+    text-align: center;
+}
